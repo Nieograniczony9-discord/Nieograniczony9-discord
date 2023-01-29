@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 algin="center">Cześć 👋, jestem Marcel, chociaż ludzie bardziej znają mnie z nicku Nieograniczony9 ✨</h1>
+<h2 algin="center">Gdzie możesz się ze mną skontaktować?</h2>
+<a href="https://discord.gg/zBtXuNjV2z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zBtXuNjV2z" height="30" width="40" /></a>
 
 <!--
 **Nieograniczony9-discord/Nieograniczony9-discord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
